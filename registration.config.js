@@ -1,7 +1,7 @@
 // DramaFree — Firebase config za registracionu formu vebinara.
 //
 // Bezbedno za commit: sigurnost se enforce-uje kroz Realtime Database rules,
-// ne kroz tajne u ovom fajlu (isti pristup kao Odvaž projekat).
+// ne kroz tajne u ovom fajlu (sigurnost kroz RTDB pravila).
 //
 // SETUP (operator, u Firebase Console na nsc.agency nalogu):
 //   1. Otvori postojeći DramaFree RTDB projekat.
